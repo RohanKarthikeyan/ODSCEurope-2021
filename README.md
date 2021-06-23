@@ -12,3 +12,5 @@
 - _Fourthly_, I performed feature engineering, more specifically, *mutual information*, to help extract the relative potential of the features as a predictor of the target, considered by itself.
 - _Fifthly_, I created new features and performed scaling (though it was not required, ouch!)
 - _Lastly_, I trained a Logistic regression model among 2 other models to achieve an ROC-AUC of 0.92.
+***
+S.D.G.
